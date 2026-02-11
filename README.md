@@ -4,6 +4,6 @@
 
 3. Run exe
 
-4. Wait 3-4 minutes for install components
+4. Wait 3-4 minutes for install components 
 
 5. Run game
