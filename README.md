@@ -1,6 +1,6 @@
 1. Download archive from release
   
-2. Unzip in folder  
+2. Unzip in folder   
 
 3. Run exe
  
